@@ -1,1 +1,0 @@
-print("welcome to first git class")
